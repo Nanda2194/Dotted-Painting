@@ -11,5 +11,7 @@ Store RGB values in a list
 Use Turtle to draw a grid of colorful dots
 Randomly pick colors to make each dot unique
 # 📸 Output
-It is in viedo format the first file name is python
-
+It is in viedo format the first file name is python Turtle Graphics
+# 📢 Connect With Me
+If you liked this project, don't forget to ⭐ the repo and connect with me on
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nanda-kishore-977262290/) 😊
