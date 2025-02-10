@@ -10,5 +10,6 @@ Extract colors from an image using colorgram.extract()
 Store RGB values in a list
 Use Turtle to draw a grid of colorful dots
 Randomly pick colors to make each dot unique
-
+# 📸 Output
+It is in viedo format the first file name is python
 
