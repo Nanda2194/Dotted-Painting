@@ -14,6 +14,5 @@ Randomly pick colors to make each dot unique
 It is in viedo format the first file name is python Turtle Graphics
 # 📢 Connect With Me
 If you liked this project, don't forget to ⭐ the repo and connect with me on
-## 📢 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/your-profile/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/nanda-kishore-977262290/)
 
